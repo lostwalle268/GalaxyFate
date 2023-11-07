@@ -2,6 +2,10 @@
 
 ¡Bienvenido al juego Galaxy Fate! A continuación, te proporcionamos las instrucciones para instalar y jugar este emocionante juego.
 
+## Requisitos obligatorios
+Pantalla de 14"
+Tener Java 17 enviroment descargado
+
 ## Paso 1: Descargar Java
 Galaxy Fate está desarrollado en Java, por lo que debes asegurarte de tener Java instalado en tu sistema. Si aún no lo tienes, puedes descargarlo desde el sitio web: [Descargar Java](https://adoptium.net/es/).
 
